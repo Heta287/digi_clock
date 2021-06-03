@@ -1,2 +1,2 @@
-# progate
-Progate Webathon Basic Digital Clock
+#Just a Digi Clock
+Basic Digital Clock for purpose yet unidentified... xD
