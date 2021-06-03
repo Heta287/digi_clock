@@ -1,2 +1,2 @@
-#Just a Digi Clock
-Basic Digital Clock for purpose yet unidentified... xD
+# Just a Digi Clock
+### Basic Digital Clock for purposes yet unidentified... xD
